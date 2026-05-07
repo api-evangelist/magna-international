@@ -20,6 +20,12 @@ apis: []
 common:
   - type: Website
     url: https://www.magna.com/
+  - type: Plans
+    url: plans/magna-international-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/magna-international-rate-limits.yml
+  - type: FinOps
+    url: finops/magna-international-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
