@@ -1,7 +1,7 @@
 aid: magna-international
 url: https://raw.githubusercontent.com/api-evangelist/magna-international/refs/heads/main/apis.yml
 name: Magna International
-x-type: company
+kind: company
 description: >-
   Magna International is a Canadian global Tier 1 automotive supplier headquartered in Aurora, Ontario. Magna designs and manufactures vehicle bodies, chassis, exteriors, seating, powertrain, ADAS, electronics, mirrors, and complete vehicle assembly through its global operations.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
