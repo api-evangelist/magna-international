@@ -4,7 +4,19 @@ name: Magna International
 kind: company
 description: >-
   Magna International is a Canadian global Tier 1 automotive supplier headquartered in Aurora, Ontario. Magna designs and manufactures vehicle bodies, chassis, exteriors, seating, powertrain, ADAS, electronics, mirrors, and complete vehicle assembly through its global operations.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: enterprise
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Enterprise
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/magna-international.png
 tags:
   - Automotive
   - Tier 1 Supplier
